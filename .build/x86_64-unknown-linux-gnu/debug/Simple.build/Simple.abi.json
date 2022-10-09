@@ -1,0 +1,157 @@
+{
+  "kind": "Root",
+  "name": "TopLevel",
+  "printedName": "TopLevel",
+  "children": [
+    {
+      "kind": "Var",
+      "name": "unsortedStrings",
+      "printedName": "unsortedStrings",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Array",
+          "printedName": "[Swift.String]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "usr": "s:Sa"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple15unsortedStringsSaySSGvp",
+      "mangledName": "$s6Simple15unsortedStringsSaySSGvp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "strings",
+      "printedName": "strings",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Array",
+          "printedName": "[Swift.String]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "usr": "s:Sa"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple7stringsSaySSGvp",
+      "mangledName": "$s6Simple7stringsSaySSGvp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "swaps",
+      "printedName": "swaps",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Int",
+          "printedName": "Swift.Int",
+          "usr": "s:Si"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple5swapsSivp",
+      "mangledName": "$s6Simple5swapsSivp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "passSwap",
+      "printedName": "passSwap",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Int",
+          "printedName": "Swift.Int",
+          "usr": "s:Si"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple8passSwapSivp",
+      "mangledName": "$s6Simple8passSwapSivp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "swapTotal",
+      "printedName": "swapTotal",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Int",
+          "printedName": "Swift.Int",
+          "usr": "s:Si"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple9swapTotalSivp",
+      "mangledName": "$s6Simple9swapTotalSivp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "passes",
+      "printedName": "passes",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Int",
+          "printedName": "Swift.Int",
+          "usr": "s:Si"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple6passesSivp",
+      "mangledName": "$s6Simple6passesSivp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "hasStorage": true
+    }
+  ],
+  "json_format_version": 6
+}
